@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d7b27a5-f45f-4491-9746-ad443a80c6f6" name="Changes" comment="" />
+    <list default="true" id="1d7b27a5-f45f-4491-9746-ad443a80c6f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +54,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Ogólne/Documents/github/_MORD0BARDZIEJ_BACKEND",
+    "last_opened_file_path": "C:/Users/Ogólne/Documents/github/_MORD0BARDZIEJ_BACKEND/lec2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "spring.configuration.checksum": "e183e8100c05cd6ba8194e3de23956e1",
     "vue.rearranger.settings.migration": "true"
   }
@@ -124,7 +127,9 @@
       <option name="presentableId" value="Default" />
       <updated>1700089690137</updated>
       <workItem from="1700089692598" duration="546000" />
-      <workItem from="1700119850659" duration="1421000" />
+      <workItem from="1700119850659" duration="1710000" />
+      <workItem from="1700121797358" duration="37000" />
+      <workItem from="1700121860023" duration="38000" />
     </task>
     <servers />
   </component>
